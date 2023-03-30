@@ -1,6 +1,6 @@
 ![Welcome](img/BANNER.jpg)
 
-## About me in code
+## Yo en código / Me in code
 ```js
 const jcarlosmsanz = {
     lenguajes: [Javascript, HTML, CSS3, Java, MySql, Oracle]
