@@ -1,5 +1,11 @@
 ![Welcome](img/BANNER.jpg)
 
+```js
+const midudev = {
+    code: [Javascript, HTML, CSS3, Java, MySql, Oracle]
+    tools: [eclipse, VCE, workbench]
+}
+```
  Sobre mi / About me
 ---
 Hola! mi nombre es Juan Carlos, aunque todo el mundo me conoce como **Juancar**.
