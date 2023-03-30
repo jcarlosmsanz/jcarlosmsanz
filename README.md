@@ -1,3 +1,1 @@
-const thai = {
-    código: [java, javascript, html, css, oracle, mysql]
-}
+![Welcome](https://i.postimg.cc/hj7qfXNC/BANNER.jpg)
