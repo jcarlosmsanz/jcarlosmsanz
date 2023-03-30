@@ -1,1 +1,1 @@
-![Welcome](https://i.postimg.cc/hj7qfXNC/BANNER.jpg)
+![Welcome](img/BANNER.jpg)
