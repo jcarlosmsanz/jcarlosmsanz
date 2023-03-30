@@ -6,6 +6,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  &nbsp;
 <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
+![Visitas](https://komarev.com/ghpvc/?username=jcarlosmsanz)
 
 ## Yo en código / Me in code
 ```js
@@ -30,3 +31,4 @@ Actualmente estoy cursando **Técnico Superior en Desarrollo de Aplicaciones Web
 *Until now I have had a quite varied and open educational and working life. I have studied **Graphic Design:black_nib:, Photography:camera:, Nursing:syringe:... even music:musical_note:**, and until now I have worked on all of them. Before Covid I took a Programming cycle and I was able to dedicate myself briefly to it, but with the pandemic I returned to healthcare, where I have been since then.*
 
 *I am currently studying **Higher Technician in Web Application Development**.*
+
